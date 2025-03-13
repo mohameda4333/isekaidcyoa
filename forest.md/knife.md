@@ -1,1 +1,3 @@
-You notice a knife on the floor and you pick it up.
+You use the knife and try to kill that person out of fear.
+
+[attempt to kill them](kill.md)

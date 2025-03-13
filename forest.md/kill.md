@@ -1,1 +1,3 @@
-You see someone and out of fear you attempt to kill them.
+You see someone and out of fear you kill them.
+
+[You escape](escape.md)
