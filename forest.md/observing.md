@@ -1,1 +1,3 @@
-You see someone and try to run
+You try to see who it is.
+
+[You instantly died](die.md)
